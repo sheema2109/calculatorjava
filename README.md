@@ -18,3 +18,10 @@ Take user input for two numbers and an operation
 Perform the selected operation and display the result
 Handle errors and exceptions for invalid inputs or operations
 OUTPUT of calculator_Java
+Enter first number: 
+45
+Enter second number: 
+78
+Choose an operation: +, -, *, /
++
+The result is: 123.0
